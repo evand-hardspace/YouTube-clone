@@ -12,6 +12,7 @@
     "serve": "node dist/index.js"
   },
   "dependencies": {
+    "@google-cloud/storage": "^7.15.2",
     "express": "^4.21.2",
     "fluent-ffmpeg": "^2.1.3"
   },
